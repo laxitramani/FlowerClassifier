@@ -3,5 +3,4 @@ class AppAssets {
 
   //images (PNG)
   static String get appLogo => '$baseIMG/logo.png';
-  static String get rose => '$baseIMG/rose.png';
 }
