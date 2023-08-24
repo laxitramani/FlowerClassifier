@@ -5,4 +5,4 @@ This application employs machine learning to analyze uploaded images and determi
 ![Preview](https://github.com/laxitramani/FlowerClassifier/blob/main/assets/images/view.gif)
 
 ## Python Code Preview
-!https://github.com/laxitramani/FlowerClassifier/blob/main/python/generate_tflite.ipynb
+![Python Code](https://github.com/laxitramani/FlowerClassifier/blob/main/python/generate_tflite.ipynb)
