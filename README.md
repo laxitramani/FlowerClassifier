@@ -1,16 +1,8 @@
-# flower_classifier
+# Flower Classifier
+This application employs machine learning to analyze uploaded images and determine whether they contain images of flowers. The system utilizes advanced algorithms to recognize and classify different types of flowers present in the images.
 
-A new Flutter project.
+##App Preview
+![Preview](https://github.com/laxitramani/FlowerClassifier/blob/main/assets/images/view.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Python Code Preview
+![Python Preview](https://github.com/laxitramani/FlowerClassifier/blob/main/python/generate_tflite.ipynb)
